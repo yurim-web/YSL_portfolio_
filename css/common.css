@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+  width: 100vw;
+  color: white;
+  overflow-x: hidden; /* 수평 스크롤 방지 */
+}
+
+section {
+  width: 100vw;
+  height: 100vh;
+}
+
+/* * {
+  box-sizing: border-box;
+} */
